@@ -1,0 +1,25 @@
+{
+  "name": "platzi-tailwind-paltzifood",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o public/css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djalmeida3-source/platzi-tailwind-paltzifood.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djalmeida3-source/platzi-tailwind-paltzifood/issues"
+  },
+  "homepage": "https://github.com/djalmeida3-source/platzi-tailwind-paltzifood#readme",
+  "dependencies": {
+    "autoprefixer": "9.7.4",
+    "postcss-cli": "7.1.0",
+    "tailwindcss": "1.1.4"
+  }
+}
