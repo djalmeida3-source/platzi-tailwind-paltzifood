@@ -1,1 +1,1 @@
-# platzi-tailwind-paltzifood
+# platzi-tailwind-platzifood
